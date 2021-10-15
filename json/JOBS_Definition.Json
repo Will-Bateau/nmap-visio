@@ -1,0 +1,6 @@
+{
+    "Jobs": [{
+                "SystemName": "SalesProcessing",
+                "SubsystemName": "_MasterSalesProcessing",
+                "EnvironmentName": "GeneralOperation"
+            },
